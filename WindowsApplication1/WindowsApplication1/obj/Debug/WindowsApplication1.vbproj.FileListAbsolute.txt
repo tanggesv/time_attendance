@@ -1,0 +1,14 @@
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.UC_Communication.resources
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.connection_form.resources
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AddDevice.resources
+D:\varen\New folder\2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AttLogs.resources
